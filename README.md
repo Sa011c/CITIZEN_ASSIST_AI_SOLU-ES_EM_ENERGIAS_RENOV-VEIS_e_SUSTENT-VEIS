@@ -24,16 +24,14 @@ podendo ser instalada no telhado.
 Energia de biomassa, pois evita a emissão de gás metano no meio ambiente e além de produzir energia elétrica
 também serve coma gás de cozinha e biofertilizante liquido.
 
-Critério	Alternativa 1: Energia Solar 
-Fotovoltaica 	Alternativa 2: Energia de 
-Biomassa (Biogás via Biodigestor)
-Dimensionamento	Sistema de 4,2 kWp (aprox. 8 placas de 550W), considerando irradiação média brasileira (4,5 a 5,0h de sol pleno/dia).	Biodigestor rural + motogerador a biogás de 5 kVA, exigindo dejetos de aprox. 15 a 20 bovinos (ou equivalente em suínos/aves) por dia.
-Investimento Inicial (CAPEX)	R$ 14.000,00 a R$ 18.000,00 (equipamentos + instalação + homologação).	R$ 18.000,00 a R$ 25.000,00 (biodigestor, filtro de CH4 e gerador adaptado).
-Economia e Retorno (Payback)	Reduz a conta em até 85% a 90% (paga-se apenas a taxa mínima de disponibilidade da rede). Payback em 4 a 5 anos.	Reduz até 80% a 95% do consumo (dependendo da disponibilidade contínua de matéria orgânica). Payback em 5 a 7 anos.
-Viabilidade Operacional	Alta. Baixíssima manutenção (limpeza semestral das placas). Não depende de criação animal.	Média/Condicional. Exige manejo diário (abastecimento de esterco/água) e manutenção periódica do motor a combustão.
-Impacto Ambiental	Muito positivo. Zero emissão de gases na operação; ocupa área de telhado já existente.	Excelente (Economia Circular). Evita emissão de metano (CH4, 28x mais poluente que o CO2) na atmosfera e gera biofertilizante líquido como subproduto.
-Limitações	Não gera energia à noite (depende da rede para compensação de créditos) e sofre queda em dias nublados.	Inviável para produtores exclusivamente agrícolas sem rebanho ou resíduos orgânicos suficientes.
-
+| Critério | Alternativa 1: Energia Solar Fotovoltaica (On-Grid) | Alternativa 2: Energia de Biomassa (Biogás via Biodigestor) |
+| :--- | :--- | :--- |
+| **Dimensionamento** | Sistema de 4,2 kWp (aprox. 8 placas de 550W), considerando irradiação média brasileira (4,5 a 5,0h de sol pleno/dia). | Biodigestor rural + motogerador a biogás de 5 kVA, exigindo dejetos de aprox. 15 a 20 bovinos (ou equivalente em suínos/aves) por dia. |
+| **Investimento Inicial (CAPEX)** | R$ 14.000,00 a R$ 18.000,00 (equipamentos + instalação + homologação). | R$ 18.000,00 a R$ 25.000,00 (biodigestor, filtro de CH4 e gerador adaptado). |
+| **Economia e Retorno (Payback)** | Reduz a conta em até 85% a 90% (paga-se apenas a taxa mínima de disponibilidade da rede). Payback em 4 a 5 anos. | Reduz até 80% a 95% do consumo (dependendo da disponibilidade contínua de matéria orgânica). Payback em 5 a 7 anos. |
+| **Viabilidade Operacional** | Alta. Baixíssima manutenção (limpeza semestral das placas). Não depende de criação animal. | Média/Condicional. Exige manejo diário (abastecimento de esterco/água) e manutenção periódica do motor a combustão. |
+| **Impacto Ambiental** | Muito positivo. Zero emissão de gases na operação; ocupa área de telhado já existente. | Excelente (Economia Circular). Evita emissão de metano (CH4, 28x mais poluente que o CO2) na atmosfera e gera biofertilizante líquido como subproduto. |
+| **Limitações** | Não gera energia à noite (depende da rede para compensação de créditos) e sofre queda em dias nublados. | Inviável para produtores exclusivamente agrícolas sem rebanho ou resíduos orgânicos suficientes. |
  
 Calculo:
 
